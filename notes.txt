@@ -1,0 +1,8 @@
+Will want to use entropy to be able measure the randomness of strings/data
+  Strings with a hight entropy have a higher chance of being sensitive info as most tokens/keys/creds are created a random
+  * Should have an entropy scoring system
+  
+Being that this is a tool for git repos the tool should be able to 
+  - Download an individual repo
+  - all repos in an organization or team
+  - parse through histroric commits using "git log"
